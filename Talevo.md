@@ -33,7 +33,7 @@
 Want to contribute story ideas or help improve the UI/UX?
 
 - Open an issue in this repo  
-- Email: vaibhav@example.com  
+- Email: vaibhavbhagat7461@gmail.com  
 - Fork requests are **not accepted** for this project
   
 ---
