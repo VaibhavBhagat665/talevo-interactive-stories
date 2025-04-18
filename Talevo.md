@@ -57,6 +57,6 @@ See [`LICENSE.md`](LICENSE.md) for full terms.
 
 ## 🧠 AI Usage Disclaimer
 
-> ⚠️ Parts of this project (like images, story content, or UI ideas) were created or enhanced using AI tools.  
+> ⚠️ Parts of this project (like images, story content, or UI ideas) were created or enhanced using AI/LLM tools.  
 > However, all final decisions, integration, programming architecture, design, and customizations were performed by **Vaibhav Bhagat**, the sole author.
 
