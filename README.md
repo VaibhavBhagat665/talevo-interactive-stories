@@ -54,7 +54,6 @@ Every story has multiple paths. You shape the journey.
 ## 🧩 Available Stories (Sample)
 
 - 🌲 **Enchanted Forest** – Explore a magical forest with hidden secrets  
-- 🕵️ **Detectives’ Puzzle** – Solve a crime with multiple suspects and clues  
 - 👻 **Ghost Town** – Discover the truth behind a town lost in time  
 - 🚀 **Space Explorer** – Survive and make choices aboard a failing starship  
 - 🕰️ **Midnight Chronicles** – Travel across time in a mysterious dream
