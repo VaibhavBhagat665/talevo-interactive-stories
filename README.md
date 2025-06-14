@@ -75,6 +75,17 @@ Every story has multiple paths. You shape the journey.
 
 ---
 
+## 🙋‍♂️ About the Developer
+
+**Vaibhav Bhagat**  
+B.Tech IT @ IIIT Sonepat  
+Passionate about AI, Data Science, Web Development & Creative Technology  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/vaibhavbhagat5)  
+📬 Email: vaibhavbhagat7461@gmail.com
+
+---
+
 ## 🧑‍💻 Developer’s Note
 
 This project was created to combine storytelling and technology in an engaging format. If you enjoy it, feel free to share it or suggest new features.
