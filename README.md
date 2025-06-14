@@ -1,4 +1,4 @@
-# 📖 Talevo – Interactive Storytelling Experience
+# 🌌 Talevo – Interactive Storytelling Experience
 
 Welcome to **Talevo**, an immersive online platform where stories unfold based on the choices **you** make. Each tale is brought to life with beautiful visuals, atmospheric sounds, and interactive decisions that influence how the story ends.
 
@@ -20,7 +20,7 @@ Every story has multiple paths. You shape the journey.
 ## 🧭 How to Use Talevo
 
 ### 1. **Open the Platform**
-- Visit: **[https://talevo.netlify.app](https://talevo.netlify.app)**  
+- Visit: **[Talevo](https://talevo-2.vercel.app)**  
 - Homepage presents a brief introduction and a gateway into the world of Talevo.
 
 ### 2. **Select a Story**
@@ -87,7 +87,7 @@ This project was created to combine storytelling and technology in an engaging f
 Have suggestions, found a bug, or want to collaborate?
 
 - ✉️ Email: **vaibhavbhagat7461@email.com**
-- 💼 LinkedIn: [Vaibhav Bhagat](https://www.linkedin.com/in/vaibhavbhagat)
+- 💼 LinkedIn: [Vaibhav Bhagat](https://www.linkedin.com/in/vaibhavbhagat5)
 
 ---
 
