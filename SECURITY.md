@@ -30,8 +30,6 @@ Response expected in 3–5 working days.
 
 ## 🧭 Responsible Disclosure
 
-Do not open public issues for security bugs. We appreciate private, responsible disclosure.
+Do not open public issues for security bugs. Private, responsible disclosure is appreciated.
 
----
 
-Thank you for helping make Talevo safe and user-friendly!
