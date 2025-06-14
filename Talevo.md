@@ -47,7 +47,6 @@ Want to contribute story ideas or help improve the UI/UX?
 
 ## 🛡️ License
 
-This project is licensed under the **Talevo Proprietary License**.  
 You are not permitted to use, copy, modify, or redistribute this project without explicit written permission.
 
 See [`LICENSE.md`](LICENSE.md) for full terms.
