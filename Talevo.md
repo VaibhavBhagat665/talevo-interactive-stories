@@ -27,8 +27,7 @@
 
 - **Backend/Database**:  
   - ![Firebase Authentication](https://img.shields.io/badge/-Firebase%20Auth-FFCA28?logo=firebase&logoColor=black)  
-  - ![Firebase Hosting](https://img.shields.io/badge/-Firebase%20Hosting-FFCA28?logo=firebase&logoColor=black)  
-  - ![Firestore](https://img.shields.io/badge/-Firestore-FFA000?logo=firebase&logoColor=black) *(optional for storing user/story data)*
+  - ![Firestore](https://img.shields.io/badge/-Firestore-FFA000?logo=firebase&logoColor=black) 
 
 - **Package Management**:  
   - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
