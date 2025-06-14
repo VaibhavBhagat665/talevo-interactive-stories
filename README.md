@@ -78,7 +78,7 @@ Every story has multiple paths. You shape the journey.
 ## 🧰 Tech Stack
 
 - **Frontend**:  
-  - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 - **Backend/Database**:  
   ![Firebase Authentication](https://img.shields.io/badge/-Firebase%20Auth-FFCA28?logo=firebase&logoColor=black) ![Firestore](https://img.shields.io/badge/-Firestore-FFA000?logo=firebase&logoColor=black) 
