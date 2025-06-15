@@ -32,10 +32,6 @@ Every story has multiple paths. You shape the journey.
 - Each choice leads to a different scene or outcome
 - You can replay and explore alternative endings
 
-### 4. **Log In (Optional)**
-- Use the login button to sign in via email 
-- This helps in saving preferences or unlocking restricted content
-
 ---
 
 ## 🎮 Story Interaction Features
