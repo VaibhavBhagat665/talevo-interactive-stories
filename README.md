@@ -51,7 +51,7 @@ Every story has multiple paths. You shape the journey.
 
 ---
 
-## 🧩 Available Stories (Sample)
+## 🧩 Available Stories 
 
 - 🌲 **Enchanted Forest** – Explore a magical forest with hidden secrets  
 - 👻 **Ghost Town** – Discover the truth behind a town lost in time  
